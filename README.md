@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jaylen Roope | Data Analytics Portfolio 
 
-<!--
-**jaylenroope-afk/jaylenroope-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Neuroscience Graduate | Aspiring Data Analyst**
+💡 Passionate about turning data into insights | Background in neuroscience research
+📊 Skilled in Excel, SQL, Tableau, R
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 About Me
+- 💻 Recently completed the **Google Data Analytics Certificate**
+- 🧑‍🎓 Graduated with a B.S. in Neuroscience + Minor in Chemistry @ UNC Chapel Hill
+- 📈 Currently building projects in data analytics and visualization
+- 🎯 Interested in healthcare, finance, and sports analytics
+
+---
+
+## 📊 Portfolio Projects
+
+
+---
+
+## ✉️ Let's Connect
+- 🔗 [LinkedIn](www.linkedin.com/in/jaylen-roope-a00478224)
+- 📧 Email: JaylenRoope@gmail.com
