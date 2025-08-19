@@ -15,11 +15,11 @@
 ---
 
 ## 📊 Portfolio Projects
-### Healthcare Analytics
+### Healthcare-related projects
 
-### Sports Analytics
+### Sports-related projects
 
-### Finance Analutics
+### Finance-related projects
 
 ---
 
