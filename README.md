@@ -16,7 +16,15 @@
 
 ## 📊 Portfolio Projects
 ### Healthcare-related projects
-
+1. COVID-19 Death and Vaccination Analysis
+   - **Description:**
+     An analysis of COVID-19 data spanning from January 2020 to April 2021, focusing on the number of cases, deaths, and vaccinations.
+   - **Tools and Skills Used:**
+     Excel, BigQuery SQL, Tableau Public, Data Cleaning, Data Transformation, Data Visualization, GitHub Documentation
+   - **Project Goals:**
+     To identify trends over time in COVID-19 cases, deaths, and vaccinations for every country and correlations between vaccination rate and infection rate.
+   - **Results:**
+     Discovered a moderate, positive relationship between vaccination and infection rate, but may not be a significant finding due to vaccinations not being readily available towards the end of the date range. USA, Brazil, and Mexico had the most COVID deaths by the end of April 2021. 
 ### Sports-related projects
 
 ### Finance-related projects
