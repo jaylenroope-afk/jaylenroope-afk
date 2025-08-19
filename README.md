@@ -17,7 +17,7 @@
 ## 📊 Portfolio Projects
 ### Healthcare-related projects
 🔗 [Project Repository](https://github.com/jaylenroope-afk/CovidData/tree/main)
-1. COVID-19 Death and Vaccination Analysis
+1. **COVID-19 Death and Vaccination Analysis**
    - **Description:**
      An analysis of COVID-19 data spanning from January 2020 to April 2021, focusing on the number of cases, deaths, and vaccinations.
    - **Tools and Skills Used:**
