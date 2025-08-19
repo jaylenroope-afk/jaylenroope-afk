@@ -15,7 +15,11 @@
 ---
 
 ## 📊 Portfolio Projects
+### Healthcare Analytics
 
+### Sports Analytics
+
+### Finance Analutics
 
 ---
 
