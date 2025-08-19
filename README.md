@@ -1,8 +1,8 @@
 # Jaylen Roope | Data Analytics Portfolio 
 
-🎓 **Neuroscience Graduate | Aspiring Data Analyst**
-💡 Passionate about turning data into insights | Background in neuroscience research
-📊 Skilled in Excel, SQL, Tableau, R
+- 🎓 **Neuroscience Graduate | Aspiring Data Analyst**
+- 💡 Passionate about turning data into insights | Background in neuroscience research
+- 📊 Skilled in Excel, SQL, Tableau, R
 
 ---
 
