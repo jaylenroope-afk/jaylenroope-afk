@@ -28,7 +28,7 @@
      Discovered a moderate, positive relationship between vaccination and infection rate, but may not be a significant finding due to vaccinations not being readily available towards the end of the date range. USA, Brazil, and Mexico had the most COVID deaths by the end of April 2021.
 
 🔗 [Project Repository](https://github.com/jaylenroope-afk/DiabetesRiskPredictor)
-#### 2. **Diabetes Risk Analysis
+#### 2. Diabetes Risk Analysis
    - **Description:**
      A predictive diabetes risk project. Individuals in the dataset were females over the age of 21 and of Pima Indian heritage. Their body measures and clinical variables such as blood pressure, glucose levels, etc., were collected. 
    - **Tools and Skills Used:**
