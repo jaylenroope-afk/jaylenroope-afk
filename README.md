@@ -34,7 +34,7 @@
    - **Tools and Skills Used:**
      Excel, Tableau Public, GitHub Documentation, Data Cleaning, Pivot Tables, Summary Statistics, Conditional Formatting, Data Visualization.
    - **Project Goals:**
-     To determine what variables are the strongest predictor on diabetic outcome and to calculate the risk of a patient developing diabetes given their current measurements (body measures and clinical variables). This will help the patient understand their risk and preventive measures to take while also informing healthcare providers so that they can provide recommendations for the patient.
+     To determine what variables are the strongest predictors on diabetic outcome and to calculate the risk of a patient developing diabetes given their current measurements (body measures and clinical variables). This will help the patient understand their risk and preventive measures to take while also informing healthcare providers so that they can provide recommendations for the patient.
    - **Results:**
      Glucose and Skin Thickness (body fat) were the strongest predictors while blood pressure had close to no correlation.
 
