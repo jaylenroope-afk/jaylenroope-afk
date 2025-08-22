@@ -41,6 +41,7 @@
 
 
 ### Sports-related projects
+### 3. NBA Fantasy 25-26 Projections
 
 ### Finance-related projects
 
