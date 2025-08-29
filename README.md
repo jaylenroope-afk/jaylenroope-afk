@@ -51,16 +51,7 @@
    - **Results:**
      Discovered a moderate, positive relationship between vaccination and infection rate, but may not be a significant finding due to vaccinations not being readily available towards the end of the date range. USA, Brazil, and Mexico had the most COVID deaths by the end of April 2021.
 
-### 3. Diabetes Risk Analysis
-🔗 [Project Repository](https://github.com/jaylenroope-afk/DiabetesRiskPredictor)
-   - **Description:**
-     A predictive diabetes risk project. Individuals in the dataset were females over the age of 21 and of Pima Indian heritage. Their body measures and clinical variables such as blood pressure, glucose levels, etc., were collected. 
-   - **Tools and Skills Used:**
-     Excel, Tableau Public, GitHub Documentation, Data Cleaning, Pivot Tables, Summary Statistics, Conditional Formatting, Data Visualization.
-   - **Project Goals:**
-     To determine what variables are the strongest predictors on diabetic outcome and to calculate the risk of a patient developing diabetes given their current measurements (body measures and clinical variables). This will help the patient understand their risk and preventive measures to take while also informing healthcare providers so that they can provide recommendations for the patient.
-   - **Results:**
-     Glucose and Skin Thickness (body fat) were the strongest predictors while blood pressure had close to no correlation.
+
 
 
 
