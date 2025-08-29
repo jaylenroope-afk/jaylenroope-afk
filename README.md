@@ -17,16 +17,16 @@
 ## 📊 Portfolio Projects
 ### Healthcare-related projects
 
-### 1. **COVID-19 Death and Vaccination Analysis**
-🔗 [Project Repository](https://github.com/jaylenroope-afk/CovidData/tree/main)
+### 1. Hospital Management Analysis
+🔗 [Project Repository](https://github.com/jaylenroope-afk/Hospital-Management-)
    - **Description:**
-     An analysis of COVID-19 data spanning from January 2020 to April 2021, focusing on the number of cases, deaths, and vaccinations.
+     An thorough analysis on hospital management and discovering areas for improvement in regards to operational efficiency and patient flow. 
    - **Tools and Skills Used:**
-     Excel, BigQuery SQL, Tableau Public, Data Cleaning, Data Transformation, Data Visualization, GitHub Documentation.
+     Excel, BigQuery SQL, Tableau Public, Lucid App, Data Cleaning, Data Transformation, Data Visualization, GitHub Documentation, ERD
    - **Project Goals:**
-     To identify trends over time in COVID-19 cases, deaths, and vaccinations for every country and correlations between vaccination rate and infection rate.
+     This project analyzes a hospital's operational and financial data to improve patient flow, reduce appointment cancellations and no-shows, and increase revenue. By examining key performance indicators and identifying trends, I provide data-driven recommendations to help the administration make more informed decisions.
    - **Results:**
-     Discovered a moderate, positive relationship between vaccination and infection rate, but may not be a significant finding due to vaccinations not being readily available towards the end of the date range. USA, Brazil, and Mexico had the most COVID deaths by the end of April 2021.
+     The two biggest issues in this hospital were very low show-up rates to appointments which was only 30.9% and an insurance claim denial rate of 33% costing the hospital millions of dollars. The hospital should focus their attention on these two issues to increase revenue. 
 
 ### 2. Diabetes Risk Analysis
 🔗 [Project Repository](https://github.com/jaylenroope-afk/DiabetesRiskPredictor)
@@ -40,10 +40,29 @@
      Glucose and Skin Thickness (body fat) were the strongest predictors while blood pressure had close to no correlation.
 
 
-### Sports-related projects
-### 3. NBA Fantasy 25-26 Projections
+### 3. **COVID-19 Death and Vaccination Analysis**
+🔗 [Project Repository](https://github.com/jaylenroope-afk/CovidData/tree/main)
+   - **Description:**
+     An analysis of COVID-19 data spanning from January 2020 to April 2021, focusing on the number of cases, deaths, and vaccinations.
+   - **Tools and Skills Used:**
+     Excel, BigQuery SQL, Tableau Public, Data Cleaning, Data Transformation, Data Visualization, GitHub Documentation.
+   - **Project Goals:**
+     To identify trends over time in COVID-19 cases, deaths, and vaccinations for every country and correlations between vaccination rate and infection rate.
+   - **Results:**
+     Discovered a moderate, positive relationship between vaccination and infection rate, but may not be a significant finding due to vaccinations not being readily available towards the end of the date range. USA, Brazil, and Mexico had the most COVID deaths by the end of April 2021.
 
-### Finance-related projects
+### 3. Diabetes Risk Analysis
+🔗 [Project Repository](https://github.com/jaylenroope-afk/DiabetesRiskPredictor)
+   - **Description:**
+     A predictive diabetes risk project. Individuals in the dataset were females over the age of 21 and of Pima Indian heritage. Their body measures and clinical variables such as blood pressure, glucose levels, etc., were collected. 
+   - **Tools and Skills Used:**
+     Excel, Tableau Public, GitHub Documentation, Data Cleaning, Pivot Tables, Summary Statistics, Conditional Formatting, Data Visualization.
+   - **Project Goals:**
+     To determine what variables are the strongest predictors on diabetic outcome and to calculate the risk of a patient developing diabetes given their current measurements (body measures and clinical variables). This will help the patient understand their risk and preventive measures to take while also informing healthcare providers so that they can provide recommendations for the patient.
+   - **Results:**
+     Glucose and Skin Thickness (body fat) were the strongest predictors while blood pressure had close to no correlation.
+
+
 
 ---
 
