@@ -20,7 +20,7 @@
 ### 1. Hospital Management Analysis
 🔗 [Project Repository](https://github.com/jaylenroope-afk/Hospital-Management-)
    - **Description:**
-     An thorough analysis on hospital management and discovering areas for improvement in regards to operational efficiency and patient flow. 
+     A thorough analysis on hospital management and discovering areas for improvement in regards to operational efficiency and patient flow. 
    - **Tools and Skills Used:**
      Excel, BigQuery SQL, Tableau Public, Lucid App, Data Cleaning, Data Transformation, Data Visualization, GitHub Documentation, ERD
    - **Project Goals:**
