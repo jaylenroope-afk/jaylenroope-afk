@@ -17,7 +17,7 @@
 ## 📊 Portfolio Projects
 ### Healthcare-related projects
 
-### 1. Hospital Management Analysis
+### 1. Hospital Management Analysis | Excel, SQL, Tableau
 🔗 [Project Repository](https://github.com/jaylenroope-afk/Hospital-Management-)
    - **Description:**
      A thorough analysis on hospital management and discovering areas for improvement in regards to operational efficiency and patient flow. 
@@ -28,7 +28,7 @@
    - **Results:**
      The two biggest issues in this hospital were very low show-up rates to appointments which was only 30.9% and an insurance claim denial rate of 33% costing the hospital millions of dollars. The hospital should focus their attention on these two issues to increase revenue. 
 
-### 2. Diabetes Risk Analysis
+### 2. Diabetes Risk Analysis | Excel, Tableau
 🔗 [Project Repository](https://github.com/jaylenroope-afk/DiabetesRiskPredictor)
    - **Description:**
      A predictive diabetes risk project. Individuals in the dataset were females over the age of 21 and of Pima Indian heritage. Their body measures and clinical variables such as blood pressure, glucose levels, etc., were collected. 
@@ -40,7 +40,7 @@
      Glucose and Skin Thickness (body fat) were the strongest predictors while blood pressure had close to no correlation.
 
 
-### 3. **COVID-19 Death and Vaccination Analysis**
+### 3. COVID-19 Death and Vaccination Analysis | Excel, SQL, Tableau
 🔗 [Project Repository](https://github.com/jaylenroope-afk/CovidData/tree/main)
    - **Description:**
      An analysis of COVID-19 data spanning from January 2020 to April 2021, focusing on the number of cases, deaths, and vaccinations.
@@ -51,6 +51,18 @@
    - **Results:**
      Discovered a moderate, positive relationship between vaccination and infection rate, but may not be a significant finding due to vaccinations not being readily available towards the end of the date range. USA, Brazil, and Mexico had the most COVID deaths by the end of April 2021.
 
+### Sports-Related Projects
+
+### 1. Sports Betting Value Analysis | Python
+🔗 [Project Repository]([https://github.com/jaylenroope-afk/CovidData/tree/main](https://github.com/jaylenroope-afk/Betting_Value_Analysis)
+   - **Description:**
+     An analysis of sportsbook data over the past five NBA seasons to identify trends in algorithmic predictions of betting lines, including the spread and points total.
+   - **Tools and Skills Used:**
+     Python (Pandas, Matplotlib, Seaborn), Data Cleaning, Sorting/Filtering, Visualization, GitHub Documentation
+   - **Project Goals:**
+     To examine the accuracy of sportsbook line predictions, identify trends in over- or underestimation for specific teams, and provide actionable recommendations to optimize sportsbook profitability.
+   - **Results:**
+     Identified teams whose spreads are consistently overestimated (Denver Nuggets, Sacramento Kings, LA Lakers, Minnesota Timberwolves, Indiana Pacers, Atlanta Hawks). Suggested algorithm adjustments to minimize predictable overestimations and improve odds management. Recommended promotional strategies for games with harder-to-predict spreads to encourage balanced betting and protect company profits.
 
 
 
