@@ -54,7 +54,7 @@
 ### Sports-Related Projects
 
 ### 1. Sports Betting Value Analysis | Python
-🔗 [Project Repository]([https://github.com/jaylenroope-afk/CovidData/tree/main](https://github.com/jaylenroope-afk/Betting_Value_Analysis)
+🔗 [Project Repository](https://github.com/jaylenroope-afk/Betting_Value_Analysis)
    - **Description:**
      An analysis of sportsbook data over the past five NBA seasons to identify trends in algorithmic predictions of betting lines, including the spread and points total.
    - **Tools and Skills Used:**
