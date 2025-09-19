@@ -2,7 +2,7 @@
 
 - 🎓 **Neuroscience Graduate | Aspiring Data Analyst**
 - 💡 Passionate about turning data into insights 
-- 📊 Skilled in Excel, SQL, Tableau, R
+- 📊 Skilled in Excel, SQL, Tableau, Python
 
 ---
 
