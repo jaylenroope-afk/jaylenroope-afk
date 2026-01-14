@@ -28,7 +28,7 @@
    - **Results:**
      The two biggest issues in this hospital were very low show-up rates to appointments which was only 30.9% and an insurance claim denial rate of 33% costing the hospital millions of dollars. The hospital should focus their attention on these two issues to increase revenue. 
 
-### 2. Diabetes Risk Analysis | Excel, Tableau
+### 2. Diabetes Risk Analysis | Excel, Tableau | Statistical Analysis
 🔗 [Project Repository](https://github.com/jaylenroope-afk/DiabetesRiskPredictor)
    - **Description:**
      A predictive diabetes risk project. Individuals in the dataset were females over the age of 21 and of Pima Indian heritage. Their body measures and clinical variables such as blood pressure, glucose levels, etc., were collected. 
