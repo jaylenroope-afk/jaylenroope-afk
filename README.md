@@ -70,5 +70,5 @@
 ---
 
 ## ✉️ Let's Connect
-- 🔗 [LinkedIn](www.linkedin.com/in/jaylen-roope-a00478224)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jaylen-roope/)
 - 📧 Email: JaylenRoope@gmail.com
