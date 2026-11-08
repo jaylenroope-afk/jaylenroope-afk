@@ -1,15 +1,15 @@
 # Jaylen Roope | Data Analytics Portfolio 
 
-- 🎓 **Neuroscience Graduate | Aspiring Data Analyst**
+- 🎓 **Current Business Analyst|Neuroscience Graduate**
 - 💡 Passionate about turning data into insights 
-- 📊 Skilled in Excel, SQL, Tableau, Python
+- 📊 Skilled in Excel, SQL, Tableau, PowerPoint, Python
 
 ---
 
 ## 📖 About Me
 - 💻 Recently completed the **Google Data Analytics Certificate**
 - 🧑‍🎓 Graduated with a B.S. in Neuroscience + Minor in Chemistry @ UNC Chapel Hill
-- 📈 Currently building projects in data analytics and visualization
+- 📈 Current business analyst in the pharmaceutical space
 - 🎯 Interested in healthcare, finance, and sports analytics
 
 ---
